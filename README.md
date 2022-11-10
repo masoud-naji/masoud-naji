@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @masoud-naji
-- 👀 I’m interested in ReactJs , JavaScript , Data Analytics , VBA , DAX , Docker , Sql , Excel VBA , Power Bi , PhotoShop , Adobe XD , MongoDB , nodejs , nextjs
+- 👀 I’m interested in ReactJs , Nextjs , Nodejs , JavaScript , Data Analytics , VBA , DAX , Docker , Sql , Excel VBA , Power Bi , PhotoShop , Adobe XD , MongoDB 
 - 🌱 I’m currently learning NextJs as well as data visualization with D3. nodejs 
 - 💞️ I’m looking forward to collaborate on a project that can help me learn more.
 - 📫 How to reach me: Masoud.naji@outlook.com
 - 🌐 https://www.masoudnaji.com/
+- 🌐 https://www.maxnaji.com/
