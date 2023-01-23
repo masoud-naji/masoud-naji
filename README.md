@@ -6,10 +6,10 @@ FrontEnd Developer
 
 Overall 8+ years of Information Technology experience in Web design and development of ERP application. Overall 4+ years of extensive experience as a Front-End UI Developer with solid understanding of database designing, development, and installation of different modules. Excellent Understanding of Document Object Model (DOM) and DOM Functions. I’m interested in ReactJs, Nextjs , Nodejs, JavaScript , Django, Python, Data Analytics, VBA , DAX, Docker , SQL, Excel VBA, Power Bi, PhotoShop , Adobe XD, MongoDB
 
-* 🌍  I'm based in Leangles
+* 🌍  I'm based in los angeles
 * 🖥️  See my portfolio at [https://www.masoudnaji.com/](http://www.masoudnaji.com/)
 * ✉️  You can contact me at [masoud.naji@outlook.com](mailto:masoud.naji@outlook.com)
-* 🧠  I'm learning learning Django and NextJs
+* 🧠  I'm learning Django and NextJs
 * 🤝  I'm open to collaborating on a project that can help me learn more.
 
 ### Skills
