@@ -9,7 +9,7 @@ Overall 8+ years of Information Technology experience in Web design and developm
 * 🌍  I'm based in los angeles
 * 🖥️  See my portfolio at [https://www.masoudnaji.com/](http://www.masoudnaji.com/)
 * ✉️  You can contact me at [masoud.naji@outlook.com](mailto:masoud.naji@outlook.com)
-* 🧠  I'm learning Django and NextJs
+* 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on a project that can help me learn more.
 
 ### Skills
