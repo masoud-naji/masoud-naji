@@ -1,12 +1,32 @@
 Hi My name is Masoud Naji
 ============================
+a passionate Front-End Developer with expertise in React and Next.js. I specialize in creating professional UI web applications using JavaScript, TypeScript, ReactJS, NextJs, and various front-end technologies. With a strong understanding of design principles, I create visually appealing and responsive interfaces.
+I have hands-on experience with tools like Adobe Photoshop, Adobe XD, and Adobe Illustrator, enabling me to design stunning UI patterns. I'm skilled in optimizing page load time and ensuring high-traffic pages are SEO-friendly.
+On the back-end, I'm proficient in working with Next.js, GraphQL, Node.js, and various databases such as SQL, MySQL, PostgreSQL, MongoDB, and JSON. I have experience using Firebase for authentication, real-time databases, and cloud storage.
+Throughout my career, I've worked in Agile environments, utilizing management software like JIRA Agile and Scrum Works. I'm well-versed in version control tools like Git and have experience testing components using Jest and Storybook.
+In addition, I'm knowledgeable in data visualization tools such as JavaScript D3, Vega-Lite API, and High Charts. I've also worked with data modeling applications like Excel, Power BI, Tableau, and Dax.
+I've recently worked as a Frontend Developer at CNB- City National Bank, where I contributed to Adobe AEM projects and utilized technologies like JavaScript, HTML, CSS, SASS, Bulma, Bootstrap, and JSON.
+I'm a dedicated and motivated professional with a Bachelor's degree from Azad University and additional certifications in Java Web Development and React/Redux Development from Udacity.
+Feel free to explore my GitHub and website to learn more about my projects and skills. I'm always excited to collaborate on new and innovative projects. Let's create something great together!"
 
 ## Front-End
-
-React / Next.js: Proficient in developing web applications using React and Node.js, with a strong understanding of design elements associated with such applications. UI web applications: Experienced in designing professional UI web applications using JavaScript, TypeScript, ReactJS, NextJs, Django, HTML5, CSS3, Bootstrap, Material-ui, Theme-ui, XML, DHTML, XHTML, and JSON. Document Object Model (DOM): Exceptional understanding of Document Object Model (DOM) and DOM functions. Mockups and Prototypes: Skilled in creating templates, mockups, and prototypes for web interfaces, layouts, and future pages. Designed new, modular, UI components to be used and documented in an interactive pattern library using React Storybook. UI patterns: Experienced with Adobe products such as Adobe Photoshop, Adobe XD, and Adobe Illustrator to create UI patterns. SEO: Optimized page load time for high-traffic pages and enhanced them using CSS3. Version Control: Proficient in using version control tools like GIT. Agile: Experienced in using management software such as JIRA Agile, Scrum works, bug tracking systems, Asana, and Slack. Testing: Experienced in testing components using Jest, StoryBook. Data Visualization: Experienced in using various charting and UI tools such as JavaScript D3, Vega-Lite API, High Charts. Data Modeling: Experienced in working on data modeling applications such as Excel, Power Bi, Tableau Software, and Dax. 
-## Back-End 
-Next.js: The React Framework for Production. GraphQL: Experienced in working with GraphQL queries and using the Apollo GraphQL library. Node.js: Proficient in using the JavaScript runtime environment with Express and Sequelize. NestJs: Proficient in using the powerful Node.js framework for scalable and maintainable server-side applications, including routing, authentication, data persistence, error handling, testing, and deployment. Database: Experienced in using SQL, MySQL, PostgreSQL, MongoDB, and JSON. Webpack: Experienced in using Webpack for packaging and NPM for building web applications. Firebase: Experienced in integrating Firebase into web applications for authentication, real-time database, cloud storage, and cloud functions. Proficient in using Firebase tools such as Firebase CLI and Firebase Authentication SDK for authentication and authorization.
-
+React / Next.js: Proficient in web development with React and Next.js.
+UI web applications: Experienced in designing professional UI web applications using JavaScript, TypeScript, HTML5, CSS3, and more.
+Mockups and Prototypes: Skilled in creating templates, mockups, and prototypes for web interfaces.
+SEO: Optimized page load time and enhanced performance using CSS3.
+Version Control: Proficient in using GIT.
+Agile: Experienced in using JIRA Agile, Scrum works, bug tracking systems, and Slack.
+Testing: Experienced in testing components using Jest and StoryBook.
+Data Visualization: Experienced in using JavaScript D3, Vega-Lite API, and High Charts.
+Data Modeling: Experienced in working with Excel, Power Bi, Tableau Software, and Dax.
+## Back-End
+Next.js: Proficient in using Next.js for server-side rendering.
+GraphQL: Experienced in working with GraphQL queries and the Apollo GraphQL library.
+Node.js: Proficient in using Node.js with Express and Sequelize.
+NestJs: Proficient in using Nest.js for scalable server-side applications.
+Database: Experienced in using SQL, MySQL, PostgreSQL, MongoDB, and JSON.
+Webpack: Experienced in using Webpack for building web applications.
+Firebase: Experienced in integrating Firebase for authentication, real-time database, cloud storage, and cloud functions.
 
 * 🌍  I'm based in los angeles
 * 🖥️  See my portfolio at [https://www.masoudnaji.com/](http://www.masoudnaji.com/)
