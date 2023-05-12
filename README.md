@@ -9,24 +9,41 @@ I've recently worked as a Frontend Developer at CNB- City National Bank, where I
 I'm a dedicated and motivated professional with a Bachelor's degree from Azad University and additional certifications in Java Web Development and React/Redux Development from Udacity.
 Feel free to explore my GitHub and website to learn more about my projects and skills. I'm always excited to collaborate on new and innovative projects. Let's create something great together!"
 
-## Front-End
-React / Next.js: Proficient in web development with React and Next.js.
-UI web applications: Experienced in designing professional UI web applications using JavaScript, TypeScript, HTML5, CSS3, and more.
-Mockups and Prototypes: Skilled in creating templates, mockups, and prototypes for web interfaces.
-SEO: Optimized page load time and enhanced performance using CSS3.
-Version Control: Proficient in using GIT.
-Agile: Experienced in using JIRA Agile, Scrum works, bug tracking systems, and Slack.
-Testing: Experienced in testing components using Jest and StoryBook.
-Data Visualization: Experienced in using JavaScript D3, Vega-Lite API, and High Charts.
-Data Modeling: Experienced in working with Excel, Power Bi, Tableau Software, and Dax.
-## Back-End
-Next.js: Proficient in using Next.js for server-side rendering.
-GraphQL: Experienced in working with GraphQL queries and the Apollo GraphQL library.
-Node.js: Proficient in using Node.js with Express and Sequelize.
-NestJs: Proficient in using Nest.js for scalable server-side applications.
-Database: Experienced in using SQL, MySQL, PostgreSQL, MongoDB, and JSON.
-Webpack: Experienced in using Webpack for building web applications.
-Firebase: Experienced in integrating Firebase for authentication, real-time database, cloud storage, and cloud functions.
+### Front-End:
+React / Next.js
+JavaScript
+TypeScript
+HTML5
+CSS3
+
+### Back-End:
+Next.js
+GraphQL
+Node.js
+Express
+Sequelize
+NestJs
+
+### Database:
+SQL
+MySQL
+PostgreSQL
+MongoDB
+JSON
+
+### Other Tools:
+GIT
+JIRA Agile
+Scrum works
+Jest
+StoryBook
+JavaScript D3
+Vega-Lite API
+High Charts
+Excel
+Power Bi
+Tableau Software
+Dax
 
 * 🌍  I'm based in los angeles
 * 🖥️  See my portfolio at [https://www.masoudnaji.com/](http://www.masoudnaji.com/)
