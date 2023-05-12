@@ -6,7 +6,7 @@ On the back-end, I'm proficient in working with Next.js, GraphQL, Node.js, and v
 Throughout my career, I've worked in Agile environments, utilizing management software like JIRA Agile and Scrum Works. I'm well-versed in version control tools like Git and have experience testing components using Jest and Storybook.
 In addition, I'm knowledgeable in data visualization tools such as JavaScript D3, Vega-Lite API, and High Charts. I've also worked with data modeling applications like Excel, Power BI, Tableau, and Dax.
 I've recently worked as a Frontend Developer at CNB- City National Bank, where I contributed to Adobe AEM projects and utilized technologies like JavaScript, HTML, CSS, SASS, Bulma, Bootstrap, and JSON.
-I'm a dedicated and motivated professional with a Bachelor's degree from Azad University and additional certifications in Java Web Development and React/Redux Development from Udacity.
+I'm a dedicated and motivated professional with a Bachelor's degree  and additional certifications in Java Web Development and React/Redux Development from Udacity.
 Feel free to explore my GitHub and website to learn more about my projects and skills. I'm always excited to collaborate on new and innovative projects. Let's create something great together!"
 
 ### Front-End:
