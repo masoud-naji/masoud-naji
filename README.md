@@ -47,8 +47,8 @@ Dax
 
 * 🌍  I'm based in los angeles
 * 🖥️  See my portfolio at [https://www.masoudnaji.com/](http://www.masoudnaji.com/)
-* ✉️  You can contact me at [masoud.naji.ds@gmail.com](mailto:masoud.naji.ds@gmail.com)
-* 🚀  I'm currently working on [NexrJS - MongoDb - Graphql](http://www.masoudnaji.com/projects)
+* ✉️  You can contact me at [masoud.naji.jb@gmail.com](mailto:masoud.naji.jb@gmail.com)
+* 🚀  I'm currently working on [NexrJS - MongoDb - Graphql](http://www.masoudnaji.com)
 * 🧠  I'm learning NestJS & Django
 * 🤝  I'm open to collaborating on on a project that can help me learn more.
 
