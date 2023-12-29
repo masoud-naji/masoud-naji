@@ -1,13 +1,31 @@
 Hi My name is Masoud Naji
 ============================
-a passionate Front-End Developer with expertise in React and Next.js. I specialize in creating professional UI web applications using JavaScript, TypeScript, ReactJS, NextJs, and various front-end technologies. With a strong understanding of design principles, I create visually appealing and responsive interfaces.
-I have hands-on experience with tools like Adobe Photoshop, Adobe XD, and Adobe Illustrator, enabling me to design stunning UI patterns. I'm skilled in optimizing page load time and ensuring high-traffic pages are SEO-friendly.
-On the back-end, I'm proficient in working with Next.js, GraphQL, Node.js, and various databases such as SQL, MySQL, PostgreSQL, MongoDB, and JSON. I have experience using Firebase for authentication, real-time databases, and cloud storage.
-Throughout my career, I've worked in Agile environments, utilizing management software like JIRA Agile and Scrum Works. I'm well-versed in version control tools like Git and have experience testing components using Jest and Storybook.
-In addition, I'm knowledgeable in data visualization tools such as JavaScript D3, Vega-Lite API, and High Charts. I've also worked with data modeling applications like Excel, Power BI, Tableau, and Dax.
-I've recently worked as a Frontend Developer at CNB- City National Bank, where I contributed to Adobe AEM projects and utilized technologies like JavaScript, HTML, CSS, SASS, Bulma, Bootstrap, and JSON.
-I'm a dedicated and motivated professional with a Bachelor's degree  and additional certifications in Java Web Development and React/Redux Development from Udacity.
-Feel free to explore my GitHub and website to learn more about my projects and skills. I'm always excited to collaborate on new and innovative projects. Let's create something great together!"
+Professional Summary
+
+As a passionate Front-End Developer specializing in Adobe Experience Manager (AEM), I bring a comprehensive skill set in creating dynamic web applications and user interfaces. My expertise extends to React, Next.js, and a range of front-end technologies, backed by a solid understanding of design principles. This enables me to craft visually appealing, responsive interfaces that enhance user experience.
+
+Technical Proficiency
+
+Front-End Development: Proficient in JavaScript, TypeScript, ReactJS, NextJs. Experienced in designing UI/UX with a focus on aesthetics and functionality.
+Adobe Experience Manager (AEM): Skilled in developing AEM-based solutions, working with Sling, HTL, and XML dialogs. Expertise in creating specified components with required dialogs for website enhancement.
+Design Tools: Hands-on experience with Adobe Photoshop, Adobe XD, and Adobe Illustrator, facilitating the creation of stunning UI patterns.
+Performance and SEO: Skilled in optimizing page load times and ensuring high-traffic pages are SEO-friendly.
+Back-End Technologies: Proficient in Next.js, GraphQL, Node.js. Familiar with databases like SQL, MySQL, PostgreSQL, MongoDB, and JSON structures.
+Authentication and Storage: Experience using Firebase for authentication, real-time databases, and cloud storage.
+Agile and Version Control: Experienced in Agile methodologies, using tools like JIRA Agile and Scrum Works. Well-versed in Git for version control.
+Testing and Data Visualization: Proficient in testing components with Jest and Storybook. Knowledgeable in data visualization tools like JavaScript D3, Vega-Lite API, and High Charts.
+Data Modeling: Experienced with Excel, Power BI, Tableau, and Dax for data modeling applications.
+Professional Experience
+
+Recent Role: AEM - react Frontend Developer at Instrument. Contributed significantly to Adobe AEM projects using technologies like React, Java ,JavaScript, HTML, CSS, SASS, and JSON.
+Education and Certifications
+
+Certifications: Java Web Development and React/Redux Development certifications from Udacity.
+Invitation to Collaborate
+
+I am always excited to collaborate on new and innovative projects. Explore my GitHub and website to learn more about my work and skills. Let's create something great together!
+
+
 
 ### Front-End:
 React / Next.js
@@ -17,6 +35,7 @@ HTML5
 CSS3
 
 ### Back-End:
+AEM
 Next.js
 GraphQL
 Node.js
