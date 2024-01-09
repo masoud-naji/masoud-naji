@@ -1,7 +1,5 @@
 Hi My name is Masoud Naji
 ============================
-Professional Summary
-
 As a passionate Front-End Developer specializing in Adobe Experience Manager (AEM), I bring a comprehensive skill set in creating dynamic web applications and user interfaces. My expertise extends to React, Next.js, and a range of front-end technologies, backed by a solid understanding of design principles. This enables me to craft visually appealing, responsive interfaces that enhance user experience.
 
 Technical Proficiency
