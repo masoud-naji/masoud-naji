@@ -1,28 +1,28 @@
 Hi My name is Masoud Naji
 ============================
-As a passionate Front-End Developer specializing in Adobe Experience Manager (AEM), I bring a comprehensive skill set in creating dynamic web applications and user interfaces. My expertise extends to React, Next.js, and a range of front-end technologies, backed by a solid understanding of design principles. This enables me to craft visually appealing, responsive interfaces that enhance user experience.
+As a dedicated Front-End Developer specializing in Adobe Experience Manager (AEM), I bring a wealth of experience in crafting dynamic web applications and user interfaces. My expertise spans across React, Next.js, and various front-end technologies, complemented by a deep understanding of design principles, ensuring the creation of visually appealing and user-friendly interfaces.
 
 Technical Proficiency
 
-Front-End Development: Proficient in JavaScript, TypeScript, ReactJS, NextJs. Experienced in designing UI/UX with a focus on aesthetics and functionality.
-Adobe Experience Manager (AEM): Skilled in developing AEM-based solutions, working with Sling, HTL, and XML dialogs. Expertise in creating specified components with required dialogs for website enhancement.
-Design Tools: Hands-on experience with Adobe Photoshop, Adobe XD, and Adobe Illustrator, facilitating the creation of stunning UI patterns.
-Performance and SEO: Skilled in optimizing page load times and ensuring high-traffic pages are SEO-friendly.
-Back-End Technologies: Proficient in Next.js, GraphQL, Node.js. Familiar with databases like SQL, MySQL, PostgreSQL, MongoDB, and JSON structures.
-Authentication and Storage: Experience using Firebase for authentication, real-time databases, and cloud storage.
-Agile and Version Control: Experienced in Agile methodologies, using tools like JIRA Agile and Scrum Works. Well-versed in Git for version control.
-Testing and Data Visualization: Proficient in testing components with Jest and Storybook. Knowledgeable in data visualization tools like JavaScript D3, Vega-Lite API, and High Charts.
-Data Modeling: Experienced with Excel, Power BI, Tableau, and Dax for data modeling applications.
+Front-End Development: Proficient in JavaScript, TypeScript, ReactJS, and Next.js, with a keen eye for UI/UX design.
+Adobe Experience Manager (AEM): Skilled in developing AEM-based solutions, utilizing Sling, HTL, and XML dialogs. Experienced in creating custom components and enhancing website functionality.
+Design Tools: Hands-on experience with Adobe Photoshop, Adobe XD, and Adobe Illustrator, enabling the creation of captivating UI patterns.
+Performance and SEO: Experienced in optimizing page load times and ensuring SEO best practices for high-traffic pages.
+Back-End Technologies: Proficient in Next.js, GraphQL, and Node.js, with familiarity in SQL, MySQL, PostgreSQL, MongoDB, and JSON structures.
+Authentication and Storage: Utilized Firebase for authentication, real-time databases, and cloud storage solutions.
+Agile and Version Control: Proficient in Agile methodologies, utilizing tools like JIRA Agile and Scrum Works. Well-versed in Git for version control.
+Testing and Data Visualization: Skilled in component testing with Jest and Storybook. Knowledgeable in data visualization tools such as JavaScript D3, Vega-Lite API, and High Charts.
+Data Modeling: Experienced in Excel, Power BI, Tableau, and Dax for effective data modeling applications.
 Professional Experience
 
-Recent Role: AEM - react Frontend Developer at Instrument. Contributed significantly to Adobe AEM projects using technologies like React, Java ,JavaScript, HTML, CSS, SASS, and JSON.
+Recent Role: AEM - React Frontend Developer at Instrument. Made significant contributions to Adobe AEM projects, leveraging technologies including React, Java, JavaScript, HTML, CSS, SASS, and JSON.
+
 Education and Certifications
 
-Certifications: Java Web Development and React/Redux Development certifications from Udacity.
+Certifications: Completed Java Web Development and React/Redux Development certifications from Udacity.
 Invitation to Collaborate
 
-I am always excited to collaborate on new and innovative projects. Explore my GitHub and website to learn more about my work and skills. Let's create something great together!
-
+I am enthusiastic about collaborating on innovative projects. Explore my GitHub and website to discover more about my work and skills. Let's join forces to create something remarkable!
 
 
 ### Front-End:
