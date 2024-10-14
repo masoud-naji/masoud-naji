@@ -73,8 +73,7 @@ Dax
 
 
 <p align="left">
-  <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwi_jeWU34yJAxVuA60GHRIPL70YABAAGgJwdg&co=1&ase=2&gclid=CjwKCAjw3624BhBAEiwAkxgTOuK7jwljUho6ZODzgKQaxABDt7LyNtVnpt9-cNdaeW47Lxx9cU0ZZRoC7KIQAvD_BwE&sig=AOD64_1bxO1kz_38Okb7EjAiibnCw-0Cpg&q&nis=4&adurl&ved=2ahUKEwjvmt-U34yJAxWoH0QIHX22BDUQ0Qx6BAg4EAE">![image](https://github.com/user-attachments/assets/4473c200-b0aa-4cac-8e2c-a3827b1fb8d8) </a>
-
+<a href="https://www.google.com/aclk?sa=l&ai=DChcSEwi_jeWU34yJAxVuA60GHRIPL70YABAAGgJwdg&co=1&ase=2&gclid=CjwKCAjw3624BhBAEiwAkxgTOuK7jwljUho6ZODzgKQaxABDt7LyNtVnpt9-cNdaeW47Lxx9cU0ZZRoC7KIQAvD_BwE&sig=AOD64_1bxO1kz_38Okb7EjAiibnCw-0Cpg&q&nis=4&adurl&ved=2ahUKEwjvmt-U34yJAxWoH0QIHX22BDUQ0Qx6BAg4EAE"><img src="https://github.com/user-attachments/assets/4473c200-b0aa-4cac-8e2c-a3827b1fb8d8)" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
