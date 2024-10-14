@@ -4,18 +4,18 @@ As a dedicated Front-End Developer specializing in Adobe Experience Manager (AEM
 
 Technical Proficiency
 
-Front-End Development: Proficient in JavaScript, TypeScript, ReactJS, and Next.js, with a keen eye for UI/UX design.
-Adobe Experience Manager (AEM): Skilled in developing AEM-based solutions, utilizing Sling, HTL, and XML dialogs. Experienced in creating custom components and enhancing website functionality.
-Design Tools: Hands-on experience with Adobe Photoshop, Adobe XD, and Adobe Illustrator, enabling the creation of captivating UI patterns.
-Performance and SEO: Experienced in optimizing page load times and ensuring SEO best practices for high-traffic pages.
-Back-End Technologies: Proficient in Next.js, GraphQL, and Node.js, with familiarity in SQL, MySQL, PostgreSQL, MongoDB, and JSON structures.
-Authentication and Storage: Utilized Firebase for authentication, real-time databases, and cloud storage solutions.
-Agile and Version Control: Proficient in Agile methodologies, utilizing tools like JIRA Agile and Scrum Works. Well-versed in Git for version control.
-Testing and Data Visualization: Skilled in component testing with Jest and Storybook. Knowledgeable in data visualization tools such as JavaScript D3, Vega-Lite API, and High Charts.
-Data Modeling: Experienced in Excel, Power BI, Tableau, and Dax for effective data modeling applications.
-Professional Experience
+Front-End Development: Proficient in JavaScript, TypeScript, ReactJS, and Next.js, with expertise in responsive UI/UX design, performance optimization, and accessibility (a11y).
 
-Recent Role: AEM - React Frontend Developer at Instrument. Made significant contributions to Adobe AEM projects, leveraging technologies including React, Java, JavaScript, HTML, CSS, SASS, and JSON.
+Adobe Experience Manager (AEM): Extensive experience in AEM development using Sling models, HTL, and XML dialogs. Skilled in building custom components, templates, and client libraries. Optimized authoring experience and integrated React components into AEM via the SPA Editor.
+
+Design and Performance: Hands-on with Adobe Photoshop, XD, and Illustrator. Focused on enhancing AEM performance with lazy loading, image optimization, and SEO best practices for high-traffic pages.
+
+Agile & Version Control: Proficient in Agile methodologies using JIRA and version control with Git. Skilled in large-scale AEM project collaboration and code management.
+
+Testing & Data Visualization: Experienced with Jest, Storybook, and data visualization tools like D3 and Highcharts.
+
+Recent Role: AEM - React Frontend Developer at Kforce
+Played a key role in Adobe AEM projects, leveraging a wide range of technologies including React, Java, JavaScript, HTML, CSS, SASS, and JSON. Designed and developed highly scalable, performant AEM components, focusing on enhancing the authoring experience, integrating third-party APIs, and optimizing AEM workflows.
 
 Certifications: Completed Java Web Development and React/Redux Development certifications from Udacity.
 Invitation to Collaborate
@@ -32,6 +32,7 @@ CSS3
 
 ### Back-End:
 AEM
+java
 Next.js
 GraphQL
 Node.js
@@ -47,6 +48,7 @@ MongoDB
 JSON
 
 ### Other Tools:
+Azure DevOps 
 GIT
 JIRA Agile
 Scrum works
@@ -71,6 +73,8 @@ Dax
 
 
 <p align="left">
+  <a href="https://www.google.com/aclk?sa=l&ai=DChcSEwi_jeWU34yJAxVuA60GHRIPL70YABAAGgJwdg&co=1&ase=2&gclid=CjwKCAjw3624BhBAEiwAkxgTOuK7jwljUho6ZODzgKQaxABDt7LyNtVnpt9-cNdaeW47Lxx9cU0ZZRoC7KIQAvD_BwE&sig=AOD64_1bxO1kz_38Okb7EjAiibnCw-0Cpg&q&nis=4&adurl&ved=2ahUKEwjvmt-U34yJAxWoH0QIHX22BDUQ0Qx6BAg4EAE">![image](https://github.com/user-attachments/assets/4473c200-b0aa-4cac-8e2c-a3827b1fb8d8) </a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
