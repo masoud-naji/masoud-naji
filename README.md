@@ -1,73 +1,52 @@
-Hi My name is Masoud Naji
-============================
-As a dedicated Front-End Developer specializing in Adobe Experience Manager (AEM), I bring a wealth of experience in crafting dynamic web applications and user interfaces. My expertise spans across React, Next.js, and various front-end technologies, complemented by a deep understanding of design principles, ensuring the creation of visually appealing and user-friendly interfaces.
+# Hi, I'm Masoud Naji 👋
 
-Technical Proficiency
+Senior Front-End Engineer specializing in React, Next.js, TypeScript, and Adobe Experience Manager (AEM), with 10+ years of experience building enterprise web applications used by millions of users.
 
-Front-End Development: Proficient in JavaScript, TypeScript, ReactJS, and Next.js, with expertise in responsive UI/UX design, performance optimization, and accessibility (a11y).
+Currently working on Microsoft BrandCentral, where I develop scalable React applications, architect reusable component systems, improve accessibility (WCAG 2.1 AA), integrate enterprise APIs, and build modern authoring experiences on AEM Cloud Service.
 
-Adobe Experience Manager (AEM): Extensive experience in AEM development using Sling models, HTL, and XML dialogs. Skilled in building custom components, templates, and client libraries. Optimized authoring experience and integrated React components into AEM via the SPA Editor.
+My recent work has expanded beyond traditional frontend development into AI-assisted engineering, enterprise search, design systems, and modern product architecture.
 
-Design and Performance: Hands-on with Adobe Photoshop, XD, and Illustrator. Focused on enhancing AEM performance with lazy loading, image optimization, and SEO best practices for high-traffic pages.
+## What I work with
 
-Agile & Version Control: Proficient in Agile methodologies using JIRA and version control with Git. Skilled in large-scale AEM project collaboration and code management.
+- ⚛️ React, Next.js, TypeScript
+- 🎨 Modern UI Architecture & Design Systems
+- ☁️ Adobe Experience Manager (AEM Cloud Service)
+- ♿ Accessibility (WCAG 2.1 AA)
+- 🔍 Enterprise Search & GraphQL
+- 🤖 AI-powered Frontend Applications
+- 🚀 Performance Optimization
+- 🧩 Component Libraries & Storybook
+- 🔄 CI/CD, Azure DevOps & Git
 
-Testing & Data Visualization: Experienced with Jest, Storybook, and data visualization tools like D3 and Highcharts.
+## Current Focus
 
-Recent Role: AEM - React Frontend Developer at Kforce
-Played a key role in Adobe AEM projects, leveraging a wide range of technologies including React, Java, JavaScript, HTML, CSS, SASS, and JSON. Designed and developed highly scalable, performant AEM components, focusing on enhancing the authoring experience, integrating third-party APIs, and optimizing AEM workflows.
+- Building AI-powered web applications
+- Modern React architecture
+- Enterprise Frontend Platforms
+- Product Engineering
+- Design Systems
+- AEM Cloud Service
 
-Certifications: Completed Java Web Development and React/Redux Development certifications from Udacity.
-Invitation to Collaborate
+---
 
-I am enthusiastic about collaborating on innovative projects. Explore my GitHub and website to discover more about my work and skills. Let's join forces to create something remarkable!
+### A few highlights
 
+- 10+ years of Front-End Engineering
+- 3+ years developing on AEM Cloud Service
+- Microsoft enterprise experience
+- Enterprise-scale React applications
+- AI integration and modern frontend workflows
+- Passionate about clean architecture, performance, and great developer experience
 
-### Front-End:
-React / Next.js
-JavaScript
-TypeScript
-HTML5
-CSS3
+---
 
-### Back-End:
-AEM
-java
-Next.js
-GraphQL
-Node.js
-Express
-Sequelize
-NestJs
+📍 Los Angeles, California
 
-### Database:
-SQL
-MySQL
-PostgreSQL
-MongoDB
-JSON
+🌐 https://www.masoudnaji.com
 
-### Other Tools:
-Azure DevOps 
-GIT
-JIRA Agile
-Scrum works
-Jest
-StoryBook
-JavaScript D3
-Vega-Lite API
-High Charts
-Excel
-Power Bi
-Tableau Software
-Dax
+💼 https://linkedin.com/in/masoud-naji
 
-* 🌍  I'm based in los angeles
-* 🖥️  See my portfolio at [https://www.masoudnaji.com/](http://www.masoudnaji.com/)
-* ✉️  You can contact me at [masoud.naji.jb@gmail.com](mailto:masoud.naji.jb@gmail.com)
-* 🚀  I'm currently working on [NexrJS - MongoDb - Graphql](http://www.masoudnaji.com)
-* 🧠  I'm learning NestJS & Django
-* 🤝  I'm open to collaborating on on a project that can help me learn more.
+📫 masoud.naji.jb@gmail.com
 
 ### Skills
 
