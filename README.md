@@ -1,52 +1,107 @@
-# Hi, I'm Masoud Naji 👋
+# Hi, I'm Masoud 👋
 
-Senior Front-End Engineer specializing in React, Next.js, TypeScript, and Adobe Experience Manager (AEM), with 10+ years of experience building enterprise web applications used by millions of users.
+Senior Frontend Engineer specializing in **React, Next.js, TypeScript, and Adobe Experience Manager (AEM Cloud Service)** with over 10 years of experience building enterprise-scale web applications.
 
-Currently working on Microsoft BrandCentral, where I develop scalable React applications, architect reusable component systems, improve accessibility (WCAG 2.1 AA), integrate enterprise APIs, and build modern authoring experiences on AEM Cloud Service.
+I enjoy solving complex frontend architecture challenges, improving accessibility, building reusable component systems, and creating products that are maintainable long after they're shipped.
 
-My recent work has expanded beyond traditional frontend development into AI-assisted engineering, enterprise search, design systems, and modern product architecture.
-
-## What I work with
-
-- ⚛️ React, Next.js, TypeScript
-- 🎨 Modern UI Architecture & Design Systems
-- ☁️ Adobe Experience Manager (AEM Cloud Service)
-- ♿ Accessibility (WCAG 2.1 AA)
-- 🔍 Enterprise Search & GraphQL
-- 🤖 AI-powered Frontend Applications
-- 🚀 Performance Optimization
-- 🧩 Component Libraries & Storybook
-- 🔄 CI/CD, Azure DevOps & Git
-
-## Current Focus
-
-- Building AI-powered web applications
-- Modern React architecture
-- Enterprise Frontend Platforms
-- Product Engineering
-- Design Systems
-- AEM Cloud Service
+Currently building enterprise experiences while exploring AI-assisted software development and modern product engineering.
 
 ---
 
-### A few highlights
+## 🚀 Featured Projects
 
-- 10+ years of Front-End Engineering
-- 3+ years developing on AEM Cloud Service
-- Microsoft enterprise experience
-- Enterprise-scale React applications
-- AI integration and modern frontend workflows
-- Passionate about clean architecture, performance, and great developer experience
+### 📄 EasySmartPDF
+
+A modern desktop toolkit for working with PDF files with a focus on performance, simplicity, and offline-first workflows.
+
+### 🧩 React Accordion
+
+An open-source React accordion component focused on accessibility, performance, and developer experience.
+
+### 🌐 Portfolio
+
+My personal website built with Next.js featuring projects, technical writing, and experiments.
+
+### 🤖 AI Format Fixer
+
+AI-powered formatting assistant for transforming raw text into clean, professional documents.
+
+### 🔗 Link Hunter
+
+Utility for discovering, organizing, and validating large collections of links.
+
+### 📊 Crypto Analyzer
+
+Interactive cryptocurrency dashboard with real-time visualization and analytics.
 
 ---
 
-📍 Los Angeles, California
+## 💼 Professional Experience
 
-🌐 https://www.masoudnaji.com
+* Senior Frontend Engineer
+* Adobe Experience Manager (AEM Cloud Service)
+* React & Next.js
+* TypeScript
+* Enterprise CMS
+* Accessibility (WCAG)
+* Component Architecture
+* Enterprise Search
+* AI-assisted Development
 
-💼 https://linkedin.com/in/masoud-naji
+---
 
-📫 masoud.naji.jb@gmail.com
+## 🌱 Currently Building
+
+* EasySmartPDF
+* AI-powered desktop applications
+* Enterprise frontend architecture
+* Open-source React components
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS • Material UI • Bootstrap
+
+**State & Data**
+
+React Query • Zustand • GraphQL • Apollo Client
+
+**CMS**
+
+Adobe Experience Manager (AEM Cloud Service) • HTL/Sightly • Sling Models • Content Fragments • Experience Fragments
+
+**Backend**
+
+Node.js • Express • REST APIs
+
+**Developer Experience**
+
+Git • GitHub Actions • Storybook • CI/CD
+
+---
+
+## ✍️ Interests
+
+* Frontend Architecture
+* AI-assisted Engineering
+* Accessibility
+* Design Systems
+* Enterprise Applications
+* Performance Optimization
+
+---
+
+## 🌐 Connect
+
+* Portfolio: https://masoudnaji.com
+* LinkedIn: https://linkedin.com/in/masoudnaji
+* GitHub: https://github.com/masoud-naji
+
+Thanks for stopping by.
+
 
 ### Skills
 
